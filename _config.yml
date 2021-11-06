@@ -34,11 +34,12 @@ title-img: "/assets/img/8651385.jpg"
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
-#social-network-links:
+social-network-links:
 #
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: amit-lawanghare
+  youtube: c/UCsWGRrKuMXErBn5VeLKXCYQ
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
